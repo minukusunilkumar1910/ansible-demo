@@ -47,3 +47,45 @@ family:
     - name: Jenny
       age: 20
 ```
+### Practise All
+---
+name:'sunil'
+age:21
+working:false
+---
+Tasks:
+ - coding
+ - reading
+ - watching
+
+adress:
+  street: '1234'
+  city: 'newyork'
+  state: 'california'
+  country: 'USA' 
+
+working:
+  company:
+    morning:
+     - 'eat breakfast'
+     - 'go to work' 
+    evening:
+     - 'go to gym'
+     - 'eat dinner'
+     - 'watch movie'
+    night:
+     - 'sleep'
+     - 'read book'   
+  home:
+    morning:
+     - 'wake up'
+     - 'eat breakfast' 
+    evening:
+     - 'go to gym'
+     - 'eat dinner'
+    night:
+     - 'sleep'
+     - 'read book'
+  weekend:
+    morning:
+     - 'wake up at 10am'  
